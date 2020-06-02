@@ -94,3 +94,7 @@ footer {
 .dark-mode {
   background-color: black;
 }
+
+#sun {
+  box-shadow: 15px 15px 0px 0px rgb(255, 228, 76);
+}
