@@ -1,2 +1,1 @@
-# snapTA
-Technical Assessment for the Snap Engineering Academy
+Refresh of my portfolio site for 2020
